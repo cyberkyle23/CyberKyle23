@@ -13,8 +13,10 @@
   - [Hacking Lab](https://github.com/cyberkyle23/AD_DC)
 
  
-<h2>👨‍💻 Coding & Software Development:</h2>
+<h2>👨‍💻 Coding & Scripting :</h2>
 
+- <b>Python</b>
+  - [First Demo](https://github.com/cyberkyle23/Linux-Bash-Practice)
 - <b>Python</b>
   - [First Demo](https://github.com/cyberkyle23/python)
 - <b>PowerShell</b>
