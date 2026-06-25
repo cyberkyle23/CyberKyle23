@@ -16,7 +16,7 @@
 <h2>👨‍💻 Coding & Scripting :</h2>
 
 - <b>Linux</b>
-  - [First Demo](https://github.com/cyberkyle23/Linux-Bash-Practice)
+  - [Write-Ups](https://github.com/cyberkyle23/Linux-Bash-Practice)
 - <b>Python</b>
   - [First Demo](https://github.com/cyberkyle23/python)
 - <b>PowerShell</b>
