@@ -15,7 +15,7 @@
  
 <h2>👨‍💻 Coding & Scripting :</h2>
 
-- <b>Python</b>
+- <b>Linux</b>
   - [First Demo](https://github.com/cyberkyle23/Linux-Bash-Practice)
 - <b>Python</b>
   - [First Demo](https://github.com/cyberkyle23/python)
